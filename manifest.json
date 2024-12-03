@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+      "description": "Thunderbirds-style uniforms and paintings",
+      "name": "Thunderbirds",
+      "uuid":"992aef58-a1c2-4efb-bd08-0afae551dac5",
+      "version": [1, 0, 0],
+      "min_engine_version": [1, 16, 0]
+     },
+    "modules": [
+      {
+        "description": "Thunderbirds-style uniforms and paintings",
+        "type": "resources",
+        "uuid": "6020fc74-b270-484f-bd88-a5e93f96d472",
+        "version": [1, 0, 0]
+      }
+    ]
+   }

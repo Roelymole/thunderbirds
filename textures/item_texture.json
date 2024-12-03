@@ -1,0 +1,45 @@
+{
+   "resource_pack_name" : "Thunderbirds",
+   "texture_data" : {
+      "boots" : {
+         "textures" : [
+            "textures/items/leather_boots",
+            "textures/items/chainmail_boots",
+            "textures/items/iron_boots",
+            "textures/items/gold_boots",
+            "textures/items/diamond_boots",
+            "textures/items/netherite_boots"
+         ]
+      },
+      "chestplate" : {
+         "textures" : [
+            "textures/items/leather_chestplate",
+            "textures/items/chainmail_chestplate",
+            "textures/items/iron_chestplate",
+            "textures/items/gold_chestplate",
+            "textures/items/diamond_chestplate",
+            "textures/items/netherite_chestplate"
+         ]
+      },
+      "helmet" : {
+         "textures" : [
+            "textures/items/leather_helmet",
+            "textures/items/chainmail_helmet",
+            "textures/items/iron_helmet",
+            "textures/items/gold_helmet",
+            "textures/items/diamond_helmet",
+            "textures/items/netherite_helmet"
+         ]
+      },
+      "leggings" : {
+         "textures" : [
+            "textures/items/leather_leggings",
+            "textures/items/chainmail_leggings",
+            "textures/items/iron_leggings",
+            "textures/items/gold_leggings",
+            "textures/items/diamond_leggings",
+            "textures/items/netherite_leggings"
+         ]
+      }
+   }
+}
