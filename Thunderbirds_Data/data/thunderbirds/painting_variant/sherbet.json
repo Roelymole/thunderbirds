@@ -1,0 +1,13 @@
+{
+  "asset_id": "thunderbirds:sherbet",
+  "height": 2,
+  "width": 2,
+  "author": {
+    "color": "gray",
+    "translate": "painting.thunderbirds.sherbet.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.thunderbirds.sherbet.title"
+  }
+}

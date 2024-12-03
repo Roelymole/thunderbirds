@@ -1,0 +1,13 @@
+{
+  "asset_id": "thunderbirds:fireflash",
+  "height": 1,
+  "width": 2,
+  "author": {
+    "color": "gray",
+    "translate": "painting.thunderbirds.fireflash.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.thunderbirds.fireflash.title"
+  }
+}

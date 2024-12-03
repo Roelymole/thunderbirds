@@ -1,0 +1,13 @@
+{
+  "asset_id": "thunderbirds:john",
+  "height": 1,
+  "width": 1,
+  "author": {
+    "color": "gray",
+    "translate": "painting.thunderbirds.john.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.thunderbirds.john.title"
+  }
+}

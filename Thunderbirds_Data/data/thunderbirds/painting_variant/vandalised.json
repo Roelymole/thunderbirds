@@ -1,0 +1,13 @@
+{
+  "asset_id": "thunderbirds:vandalised",
+  "height": 2,
+  "width": 2,
+  "author": {
+    "color": "gray",
+    "translate": "painting.thunderbirds.vandalised.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.thunderbirds.vandalised.title"
+  }
+}

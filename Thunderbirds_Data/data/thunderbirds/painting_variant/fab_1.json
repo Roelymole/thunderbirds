@@ -1,0 +1,13 @@
+{
+  "asset_id": "thunderbirds:fab_1",
+  "height": 1,
+  "width": 2,
+  "author": {
+    "color": "gray",
+    "translate": "painting.thunderbirds.fab_1.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.thunderbirds.fab_1.title"
+  }
+}

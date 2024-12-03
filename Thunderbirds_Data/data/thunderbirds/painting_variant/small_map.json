@@ -1,0 +1,13 @@
+{
+  "asset_id": "thunderbirds:small_map",
+  "height": 1,
+  "width": 2,
+  "author": {
+    "color": "gray",
+    "translate": "painting.thunderbirds.small_map.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.thunderbirds.small_map.title"
+  }
+}

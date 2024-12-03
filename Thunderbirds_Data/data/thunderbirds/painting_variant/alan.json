@@ -1,0 +1,13 @@
+{
+  "asset_id": "thunderbirds:alan",
+  "height": 1,
+  "width": 1,
+  "author": {
+    "color": "gray",
+    "translate": "painting.thunderbirds.alan.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.thunderbirds.alan.title"
+  }
+}

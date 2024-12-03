@@ -1,0 +1,41 @@
+{
+    "parent": "thunderbirds:root",
+    "criteria": {
+      "smith_helmet": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "thunderbirds:thunderbirds_helmet_smithing"
+        }
+      },
+      "smith_chestplate": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "thunderbirds:thunderbirds_chestplate_smithing"
+        }
+      },
+      "smith_leggings": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "thunderbirds:thunderbirds_leggings_smithing"
+        }
+      },
+      "smith_boots": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "thunderbirds:thunderbirds_boots_smithing"
+        }
+      }
+    },
+    "requirements": [
+      [
+        "smith_helmet",
+        "smith_chestplate",
+        "smith_leggings",
+        "smith_boots"
+      ]
+    ],
+    "rewards": {
+      "function": "thunderbirds:give_back_globe"
+    }
+  }
+  

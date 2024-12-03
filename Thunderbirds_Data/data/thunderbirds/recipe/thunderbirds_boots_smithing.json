@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:smithing_transform",
+    "base": "minecraft:leather_boots",
+    "addition": "minecraft:blue_dye",
+    "template": "minecraft:globe_banner_pattern",
+    "result": {
+      "id": "minecraft:leather_boots",
+      "count": 1,
+      "components": {
+        "minecraft:item_name": "{\"translate\":\"item.thunderbirds.boots\",\"fallback\":\"Leather Boots\"}",
+        "minecraft:custom_model_data": 1,
+        "minecraft:enchantment_glint_override": false,
+        "minecraft:equippable": {
+          "slot": "feet",
+          "model": "thunderbirds:uniform"
+        }
+      }
+    }
+  }

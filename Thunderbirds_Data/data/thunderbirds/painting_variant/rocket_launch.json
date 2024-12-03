@@ -1,0 +1,13 @@
+{
+  "asset_id": "thunderbirds:rocket_launch",
+  "height": 2,
+  "width": 1,
+  "author": {
+    "color": "gray",
+    "translate": "painting.thunderbirds.rocket_launch.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.thunderbirds.rocket_launch.title"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "thunderbirds:item/boots",
+    "layer1": "thunderbirds:item/boots_overlay"
+  }
+}

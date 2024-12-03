@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "thunderbirds:item/chestplate",
+    "layer1": "thunderbirds:item/chestplate_overlay"
+  }
+}

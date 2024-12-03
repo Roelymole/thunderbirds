@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:smithing_transform",
+    "base": "minecraft:leather_helmet",
+    "addition": "minecraft:blue_dye",
+    "template": "minecraft:globe_banner_pattern",
+    "result": {
+      "id": "minecraft:leather_helmet",
+      "count": 1,
+      "components": {
+        "minecraft:item_name": "{\"translate\":\"item.thunderbirds.helmet\",\"fallback\":\"Leather Cap\"}",
+        "minecraft:custom_model_data": 1,
+        "minecraft:enchantment_glint_override": false,
+        "minecraft:equippable": {
+          "slot": "head",
+          "model": "thunderbirds:uniform"
+        }
+      }
+    }
+  }
