@@ -1,0 +1,13 @@
+{
+  "asset_id": "thunderbirds:skyship_one",
+  "height": 1,
+  "width": 2,
+  "author": {
+    "color": "gray",
+    "translate": "painting.thunderbirds.skyship_one.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.thunderbirds.skyship_one.title"
+  }
+}
