@@ -1,0 +1,13 @@
+{
+  "asset_id": "thunderbirds:parola_sands",
+  "height": 1,
+  "width": 1,
+  "author": {
+    "color": "gray",
+    "translate": "painting.thunderbirds.parola_sands.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.thunderbirds.parola_sands.title"
+  }
+}
