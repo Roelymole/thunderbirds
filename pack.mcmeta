@@ -1,7 +1,6 @@
 {
     "pack": {
-        "pack_format": 18,
-        "supported_formats": { "min_inclusive": 18, "max_inclusive": 42 },
+        "pack_format": 42,
         "description": "Thunderbirds-style uniforms and paintings"
     }
 }
