@@ -1,19 +1,19 @@
 {
-    "type": "minecraft:smithing_transform",
-    "base": "minecraft:leather_chestplate",
-    "addition": "minecraft:blue_dye",
-    "template": "minecraft:globe_banner_pattern",
-    "result": {
-      "id": "minecraft:leather_chestplate",
-      "count": 1,
-      "components": {
-        "minecraft:item_name": "{\"translate\":\"item.thunderbirds.chestplate\",\"fallback\":\"Leather Tunic\"}",
-        "minecraft:custom_model_data": 1,
-        "minecraft:enchantment_glint_override": false,
-        "minecraft:equippable": {
-          "slot": "chest",
-          "asset_id": "thunderbirds:uniform"
-        }
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:leather_chestplate",
+  "addition": "minecraft:blue_dye",
+  "template": "minecraft:globe_banner_pattern",
+  "result": {
+    "id": "minecraft:leather_chestplate",
+    "count": 1,
+    "components": {
+      "minecraft:item_name": "{\"translate\":\"item.thunderbirds.chestplate\",\"fallback\":\"Leather Chestplate\"}",
+      "minecraft:enchantment_glint_override": false,
+      "minecraft:item_model": "thunderbirds:chestplate",
+      "minecraft:equippable": {
+        "slot": "chest",
+        "asset_id": "thunderbirds:uniform"
       }
     }
   }
+}
